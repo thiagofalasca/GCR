@@ -1,11 +1,10 @@
 # GCR IPTU Generator App
 
-Welcome to the IPTU Generator App! 
 This application was developed for the City Hall of Governador Celso Ramos to simplify the process of generating IPTU (Property Tax) invoices for taxpayers.
 The program is implemented in Python and offers a user-friendly graphical interface to input the property registration number and generate the IPTU invoice as a PDF document.
 
 # Features
-* Simple and intuitive graphical user interface (GUI).
+* Simple graphical user interface (GUI).
 * Input the property registration number to generate the IPTU invoice.
 * Generates a PDF invoice based on the provided property registration number.
 * Requires a data file with all taxpayer information in a specific layout to function properly.
@@ -61,5 +60,3 @@ To run the IPTU Generator App, follow these steps:
 
 # Notes
 * The IPTU Generator App relies on the accuracy and completeness of the data file, which is provided by the City Hall of Governador Celso Ramos
-  
-Thank you!
